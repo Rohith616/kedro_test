@@ -1,3 +1,4 @@
+
 import pandas as pd
 
 
@@ -65,3 +66,6 @@ def create_model_input_table(
     )
     model_input_table = model_input_table.dropna()
     return model_input_table
+
+
+##you got to create it 'BAMMMM'
